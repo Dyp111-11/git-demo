@@ -1,4 +1,4 @@
-hello git! :wq!
+hello git! :wq! hot-fix test!
 hello git! :wq!
 hello git! :wq!2222
 hello git! :wq!
